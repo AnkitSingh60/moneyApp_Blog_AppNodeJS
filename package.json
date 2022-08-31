@@ -1,5 +1,5 @@
 {
-  "name": "blog_app_nodejs",
+  "name": "product_app_nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
     "nodemon": "^2.0.19"
   }
 }
